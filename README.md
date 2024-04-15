@@ -1,3 +1,8 @@
+##End Points: <br/>
+https://holyapi.vercel.app/anime/gogoanime/anime-list <br/>
+https://holyapi.vercel.app/anime/gogoanime/popular <br/>
+https://holyapi.vercel.app/anime/gogoanime/top-airing
+
 <p align="center">
   <a href="https://consumet.org/">
     <img alt="Consumet" src="https://consumet.org/images/consumetlogo.png" width="150">
